@@ -1,4 +1,4 @@
-<strong>README - Site Pessoal - Dev João Pontes</strong>
+<h1>README - Site Pessoal - Dev João Pontes</h1>
 ![Cover](https://github.com/jhzinm/PageMobile/assets/150977621/f436a40c-7ef5-439e-a7de-3c65531fb271)
 
 Bem-vindo ao repositório do meu site pessoal! Este projeto é a representação digital da minha identidade online, destacando meu trabalho, habilidades e projetos.
