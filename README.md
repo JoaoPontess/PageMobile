@@ -1,29 +1,13 @@
 <h1>README - Site Pessoal - Dev João Pontes</h1>
+
 ![Cover](https://github.com/jhzinm/PageMobile/assets/150977621/f436a40c-7ef5-439e-a7de-3c65531fb271)
 
-Bem-vindo ao repositório do meu site pessoal! Este projeto é a representação digital da minha identidade online, destacando meu trabalho, habilidades e projetos.
+<h2>Bem-vindo ao repositório do meu site pessoal! Este projeto é a representação digital da minha identidade online, destacando meu trabalho, habilidades e projetos.</h2>
 
 Tecnologias Utilizadas
-HTML5
-CSS3
-Framework X (se aplicável)
-JavaScript (se necessário)
-Estrutura de Diretórios
-lua
-Copy code
-|-- index.html
-|-- css/
-|   |-- style.css
-|-- js/
-|   |-- main.js (se necessário)
-|-- img/
-|   |-- profile.jpg
-|-- docs/
-|   |-- curriculum.pdf
-|-- outros/
-|   |-- qualquer_outro_arquivo
-|-- README.md
-Como Contribuir
+HTML
+CSS
+
 Se você deseja contribuir para o desenvolvimento deste site, siga estas etapas:
 
 Faça um fork do repositório.
@@ -46,6 +30,6 @@ Licença
 Este projeto está licenciado sob a Licença MIT.
 
 Contato
-Se você tiver alguma dúvida ou sugestão, entre em contato comigo em [seu@email.com].
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo em contatodevjoao@outlook.com
 
 Obrigado por visitar meu repositório! 😊
